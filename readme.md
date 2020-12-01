@@ -103,8 +103,7 @@ Variables, `region`, `classname`, `appid` & `costtag` are passed from the front-
 terraform apply -var region="region-name" -var classname="class-name" -var appid="appid" -var costtag="costtag" -auto-approve
 ```
 
-**Disclaimer-1:**<br/>
-**_Please note, any modifications that are made, other than, what is mentioned above, may need a different deployment approach or may break the script._**
+>**Disclaimer-1**: _Please note, any modifications that are made, other than, what is mentioned above, may need a different deployment approach or may break the script._
 
 >**Disclaimer-2**: This is a personal repository. All code, views or opinions, and any other content represented here are personal and belong solely to me and do not represent those of people, institutions or organizations that I may or may not be associated with in professional or personal capacity, unless explicitly stated.<br>
 <br>*Also **please note**, resources deployed using these example scripts do incur charges. Make sure to terminate the deployed resources/services after your tests, to save/minimize your bills*
